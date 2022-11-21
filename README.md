@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+What a cool feature for github. 
+Visit my web to see a pretty presentation of all portfolio projects I've build so far:
+(TODO: link to my page)
+TODO: Make this pretty lol
 <!--
 **CarlosAlegreUr/CarlosAlegreUr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
