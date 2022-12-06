@@ -5,7 +5,7 @@ I'm Carlos, a software engineer. My main interest are:
  + Artificial Inteligence.
 
 I studied for 2 years at UAB (Autonomous University of Barcelona) learning all the basics of IT and then dropped out to specialize on my own.
-This was due to feeling going too slow at my univesiry's pace and due to really wanting to start working fully focused on my own project ideas.
+This was due to the feeling of going too slow at my univesiry's pace and due to really wanting to start working fully focused on my own project ideas.
 
 # CHECKOUT MY PROJECTS AND BUSINESSES AT MY WEB
 ### (TODO: link to my page)
