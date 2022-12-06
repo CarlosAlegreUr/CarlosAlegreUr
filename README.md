@@ -4,7 +4,9 @@ Visit my web to see a pretty presentation of all portfolio projects I've build s
 (TODO: link to my page)
 TODO: Make this pretty lol
 
-<!--![Screenshot from 2022-12-06 13-51-05](https://user-images.githubusercontent.com/88899281/205917597-d87879d8-12e4-4114-949a-c47659474c99.png)
+![Screenshot from 2022-12-06 13-51-05](https://user-images.githubusercontent.com/88899281/205917597-d87879d8-12e4-4114-949a-c47659474c99.png)
+
+<!--
 
 **CarlosAlegreUr/CarlosAlegreUr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
