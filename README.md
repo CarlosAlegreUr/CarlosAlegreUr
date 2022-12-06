@@ -1,10 +1,30 @@
-### Hi there 👋
-What a cool feature for github. 
-Visit my web to see a pretty presentation of all portfolio projects I've build so far:
-(TODO: link to my page)
-TODO: Make this pretty lol
+# Hi there 👋
+I'm Carlos, a software engineer. My main interest are:
+ + Blockchain and web3 development and real world applications.
+ + Game development.
+ + Artificial Inteligence.
 
-![Screenshot from 2022-12-06 13-51-05](https://user-images.githubusercontent.com/88899281/205917597-d87879d8-12e4-4114-949a-c47659474c99.png)
+I studied for 2 years at UAB (Autonomous University of Barcelona) learning all the basics of IT and then dropped out to specialize on my own.
+This was due to feeling going too slow at my univesiry's pace and due to really wanting to start working fully focused on my own project ideas.
+
+# CHECKOUT MY PROJECTS AND BUSINESSES AT MY WEB
+### (TODO: link to my page)
+<img width=435 src="https://user-images.githubusercontent.com/88899281/205917597-d87879d8-12e4-4114-949a-c47659474c99.png" alt="Screenshot from my website"/>
+
+## Some & Main Technologies I've been in contact with
+ ### Langugaes
+  + C++
+  + JavaScript
+  + TypeScript
+  + Solidity
+ (...)
+ 
+ ### Frameworks
+  + NextJs
+  + Hardhat
+ (...)
+ 
+TODO: Make this pretty lol 
 
 <!--
 
