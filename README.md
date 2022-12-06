@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Carlos, a software engineer. My main interest are:
- + Blockchain and web3 development and real world applications.
+ + Blockchain, web3 development with real world applications.
  + Game development.
  + Artificial Inteligence.
 
