@@ -10,6 +10,7 @@ This was due to the feeling of going too slow at my univesity's pace and due to 
 
 # CHECKOUT MY PROJECTS AND BUSINESSES AT MY WEB
 ### (TODO: link to my page)
+### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 <img width=435 src="https://user-images.githubusercontent.com/88899281/205917597-d87879d8-12e4-4114-949a-c47659474c99.png" alt="Screenshot from my website"/>
 
 ## Some & Main Technologies I've been in contact with
