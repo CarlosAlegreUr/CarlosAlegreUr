@@ -9,8 +9,6 @@
 -  <b> Game development. </b> 🎮 
 - <b> Artificial Inteligence. </b>🦾🤖🧠
 
-<br/>
-
 # Checkout my projects and businesses at my web 👔
 
 ### [My Web (not completely finished :D)](https://personal-web-site-web-dev-next-js.vercel.app/)
@@ -79,7 +77,7 @@ This was due to the <b> feeling of going too slow </b> and general 🤭 at my un
 
 ## ⚡ Fun fact ⚡ 
 
-I have a big social network. Friends and contacts in 36 countries.
+I have a big wide social network. Friends and contacts in 36 countries.
 
 <img src="./PeopleIKnow.png" alt="map showing the countries with people I have some relation with">
 
