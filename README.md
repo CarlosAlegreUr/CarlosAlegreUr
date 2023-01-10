@@ -59,7 +59,7 @@
  <tbody>
  <tr>
  <td>Hardhat</td>
- <td><img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" width="25" alt="Hardhat"></td>
+ <td><img src="https://imgs.search.brave.com/TFGcwpjpb3JuEc8izBEfjSm85MI8aaHsOggYUkq8Mq8/rs:fit:432:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/c0tFRWR0TXF0ckNr/Z1ZJUlp3SjJnQUFB/QSZwaWQ9QXBp" width="25" alt="Hardhat"></td>
  <td>NextJs</td>
  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png" width="25" alt="NextJs"></td>
  <td>React</td>
