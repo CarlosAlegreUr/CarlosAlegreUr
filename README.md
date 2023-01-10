@@ -11,7 +11,7 @@
 
 <br/>
 
-# Checkout my projects and businesses at my web
+# Checkout my projects and businesses at my web 👔
 
 ### [My Web (not finished, in bad state now)](https://personal-web-site-web-dev-next-js.vercel.app/)
 
@@ -19,7 +19,7 @@
 
 <hr>
 
-## Some & Main Technologies I've been in contact with
+## Some & Main Technologies I've been in contact with 👨‍💻👨‍💻👨‍💻
 
 ### Langugaes
 
@@ -70,12 +70,18 @@
 
 <hr/>
 
-## About my learning process
+## About my learning process 📝
 I studied for <b> 2 years at UAB </b> (Autonomous University of Barcelona) <b> learning all the basics of IT </b> 🤓 and then <b> dropped out </b> to specialize on my own. 🧐 
 
 This was due to the <b> feeling of going too slow </b> and general 🤭 at my univesity's pace and due to really <b> wanting to start working fully focused on my own project </b> ideas. 🚀🤓🚀
 
 <hr/>
+
+## ⚡ Fun fact ⚡ 
+
+I have a big social network. Friends and contacts in 36 countries.
+
+<img src="./PeopleIKnow.png" alt="map showing the countries with people I have some relation with">
 
 TODO: Make this prettier 🙆‍♂️
 
