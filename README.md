@@ -13,7 +13,7 @@
 
 # Checkout my projects and businesses at my web 👔
 
-### [My Web (not finished, in bad state now)](https://personal-web-site-web-dev-next-js.vercel.app/)
+### [My Web (not completely finished :D)](https://personal-web-site-web-dev-next-js.vercel.app/)
 
 ### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 
