@@ -15,6 +15,8 @@
 
 ### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 
+### [My NPM packages (well just 1 for now :d)](https://www.npmjs.com/~carlosalegre?activeTab=packages)
+
 <hr>
 
 ## Some & Main Technologies I've been in contact with 👨‍💻👨‍💻👨‍💻
