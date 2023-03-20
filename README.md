@@ -30,7 +30,8 @@
 
 |  Hardhat  | NextJs | React |
 |:--------:|:------:|:-----:|
-| ![Hardhat](https://camo.githubusercontent.com/74f241961cfd34abb570c27d3fbb16314ffffceb86a0f6aa052a76be1705dffa/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f5446476377706a7062334a75456338697a4245666a536d38354d4938616148734f676759556b71384d71382f72733a6669743a3433323a3232353a312f673a63652f6148523063484d364c793930633255302f4c6d31744c6d4a70626d6375626d56302f4c33526f50326c6b5055394a554334742f633074465257523054584630636b4e722f5a315a4a556c7033536a4a6e515546422f51535a776157513951584270) | ![NextJs](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png) | ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png) |
+| <img src="https://imgs.search.brave.com/TFGcwpjpb3JuEc8izBEfjSm85MI8aaHsOggYUkq8Mq8/rs:fit:432:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/c0tFRWR0TXF0ckNr/Z1ZJUlp3SjJnQUFB/QSZwaWQ9QXBp" width="50" alt="Hardhat"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png" width="25" alt="NextJs"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="25" alt="React"> |
+
 
 <hr/>
 
