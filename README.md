@@ -20,6 +20,7 @@
 <hr>
 
 ## Some & Main Technologies I've been in contact with 👨‍💻👨‍💻👨‍💻
+(well nowadays chatGPT exists so who really cares that much about this section, times are changing...)
 
 ### Langugaes
 
