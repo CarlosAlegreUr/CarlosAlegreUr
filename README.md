@@ -10,7 +10,7 @@
 
 # Check out my projects and businesses at my website 👔
 
-### [My Web (not adapted to mobile screens yet :D)](https://personal-web-site-web-dev-next-js.vercel.app/)
+### [My Web (still gotta improve it's responsiveness :D)](https://personal-web-site-web-dev-next-js.vercel.app/)
 ### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 ### [My NPM packages](https://www.npmjs.com/~carlosalegre?activeTab=packages)
 
