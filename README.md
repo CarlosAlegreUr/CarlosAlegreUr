@@ -12,7 +12,7 @@
 
 ### [My Web (not adapted to mobile screens yet :D)](https://personal-web-site-web-dev-next-js.vercel.app/)
 ### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
-### [My NPM packages (well just 1 for now :d)](https://www.npmjs.com/~carlosalegre?activeTab=packages)
+### [My NPM packages](https://www.npmjs.com/~carlosalegre?activeTab=packages)
 
 <hr>
 
