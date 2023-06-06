@@ -4,7 +4,7 @@
 
 ## My main interests are:
 
-- **Blockchain**: Web3 development with real-world applications. 🔑⚖️ 💸
+- **Blockchain**: Web3 development with real-world applications. 🔑⚖️ 💸 **(specializing on this one :D)
 - **Augmented Reality (AR)**  🥽🕶👓
 - **Artificial Intelligence (AI)** 🦾🤖🧠
 
