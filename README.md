@@ -28,9 +28,9 @@
 
 ### Frameworks
 
-|  Hardhat  | NextJs | React |
-|:--------:|:------:|:-----:|
-| <img src="https://imgs.search.brave.com/TFGcwpjpb3JuEc8izBEfjSm85MI8aaHsOggYUkq8Mq8/rs:fit:432:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/c0tFRWR0TXF0ckNr/Z1ZJUlp3SjJnQUFB/QSZwaWQ9QXBp" width="50" alt="Hardhat"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png" width="25" alt="NextJs"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="25" alt="React"> |
+|  Hardhat  | Foundry | NextJs | React | 
+|:--------:|:------:|:-----:|:-----:|
+| <img src="https://imgs.search.brave.com/TFGcwpjpb3JuEc8izBEfjSm85MI8aaHsOggYUkq8Mq8/rs:fit:432:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/c0tFRWR0TXF0ckNr/Z1ZJUlp3SjJnQUFB/QSZwaWQ9QXBp" width="50" alt="Hardhat"> | <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true" width="50" alt="Foundry"> | <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" width="25" alt="NextJs"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="25" alt="React"> |
 
 
 <hr/>
