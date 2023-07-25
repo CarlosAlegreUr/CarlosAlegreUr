@@ -1,6 +1,7 @@
 <hr/>
 
-# Hi, I'm Carlos, a software engineer! 😋
+# Hi, I'm Carlos, a software engineer! 😋 
+### (Blokchain Security Researcher 🕵️)
 
 ## My main interests are:
 
