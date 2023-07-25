@@ -1,7 +1,7 @@
 <hr/>
 
 # Hi, I'm Carlos, a software engineer! 😋 
-### (Blokchain Security Researcher 🕵️)
+### (Blokchain Security Researcher 🕵️) => [click to check my audits so far](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔
 
 ## My main interests are:
 
@@ -11,9 +11,9 @@
 
 # Check out my projects and businesses at my website 👔
 
-### [My Web (desktop-only website... for now)](https://personal-web-site-web-dev-next-js.vercel.app/)
-### [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
-### [My NPM packages](https://www.npmjs.com/~carlosalegre?activeTab=packages)
+### 🕸️ [My Portfolio Website (desktop-only website... for now)](https://personal-web-site-web-dev-next-js.vercel.app/)
+### 🔗 [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
+### 👨‍💻 [My NPM packages](https://www.npmjs.com/~carlosalegre?activeTab=packages)
 
 <hr>
 
