@@ -3,11 +3,9 @@
 # Hi, I'm Carlos, a software engineer! 😋 
 ### (Blokchain Security Researcher 🕵️) => [click to check my audits so far](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔
 
-## My main interests are:
+## Main interest:
 
-- **Blockchain**: Web3 development with real-world applications. 🔑⚖️ 💸 **(specializing on this one :D)**
-- **Augmented Reality (AR)**  🥽🕶👓
-- **Artificial Intelligence (AI)** 🦾🤖🧠
+- **Blockchain**: Web3 development with real-world applications. 🔑⚖️ 💸
 
 # Check out my projects and businesses at my website 👔
 
@@ -39,7 +37,7 @@
 ## About my learning process 📝
 I studied for **2 years at UAB** (Autonomous University of Barcelona) **learning all the basics of IT** 🤓 and then **dropped out** to specialize on my own. 🧐
 
-This was due to the **feeling of going too slow** and general 🤭 at my university's pace and due to really **wanting to start working fully focused on my own project** ideas. 🚀🤓🚀
+This was due to the **feeling of going too slow** and general at my university's pace and due to really **wanting to start working fully focused on my own project** ideas. 🚀🤓🚀
 
 <hr/>
 
