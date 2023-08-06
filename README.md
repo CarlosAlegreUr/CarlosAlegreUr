@@ -2,6 +2,7 @@
 
 # Hi, I'm Carlos, a software engineer! 😋 
 ### (Blokchain Security Researcher 🕵️) => [click to check my audits so far](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔
+### (Fullstack Developer for Web2 and Web3 🌐) => [my Fullstack Web2 and Web3 Game App](https://github.com/CarlosAlegreUr/BuddyFighters-FullstackWeb3NFTGame) 🚀
 
 ## Main interest:
 
