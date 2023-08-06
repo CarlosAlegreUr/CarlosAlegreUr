@@ -11,9 +11,9 @@
 # Check out my projects and businesses at my website 👔
 
 ### 🕸️ [My Portfolio Website (desktop-only website... for now)](https://personal-web-site-web-dev-next-js.vercel.app/)
-### 🔗 [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 ### 👨‍💻 [My NPM packages](https://www.npmjs.com/~carlosalegre?activeTab=packages)
 ### 🏃 [My leetCode profile](https://leetcode.com/CarlosAlegreUrquizu/)
+### 🔗 [My Linked-In](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
 
 <hr>
 
