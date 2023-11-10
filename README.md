@@ -1,28 +1,36 @@
 <hr/>
 
-# Hi, I'm Carlos, a software engineer! 😋 
-### + Blokchain Security Researcher 🕵️ => [click to check my audits so far](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔
-### + Fullstack Developer for Web2 and Web3 🌐 => [my Fullstack Web2 and Web3 Game App](https://github.com/CarlosAlegreUr/BuddyFighters-FullstackWeb3NFTGame) 🚀
-### + CV 🗞️ => [CV-updated 19th October 2023](https://drive.google.com/file/d/1fgoEPEmOEwJMsrzLX_JNMqyydLIBEF_y/view?usp=sharing)
-### + Linked-In 🔗 => [go to profile](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/)
+# Hi, I'm Carlos, a software engineer! 😋
+
+| `Role` | `Links` |
+|------|------|
+| ***Blockchain Security Researcher*** 🕵️  | [Audits By CarlosAlegreUr](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔 |
+| **Fullstack Developer - Web2 & Web3** 🌐  | [BuddyFighters NFT Game](https://github.com/CarlosAlegreUr/BuddyFighters-FullstackWeb3NFTGame) 🚀 / [Chainlink Hackathon Project](https://github.com/CarlosAlegreUr/ConstellationChainlinkHackathon2023) ⛓️🌐 |
+| ***CV*** 🗞️ (updated 19th October 2023)  | [CV](https://drive.google.com/file/d/1fgoEPEmOEwJMsrzLX_JNMqyydLIBEF_y/view?usp=sharing) 🗞️|
+| **Linked-In** 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/) 🔗|
+
 
 ---
 
-## Main interest:
+# Main interest:
 
 - **Blockchain**: Web3 development with real-world applications. 🔑⚖️ 💸
 - **ZK-technologies & Multi-chain solutions**
   
 ---
 
-## Check out my projects and businesses at my website 👔
+# My website & Extra Cool things I guess 👔
 
-### 🕸️ [My Portfolio Website (desktop-only... for now)](https://personal-web-site-web-dev-next-js.vercel.app/)
-### 👨‍💻 [3 SmartContracts as NPM packages (on dev)](https://www.npmjs.com/~carlosalegre?activeTab=packages) + 🏃 [My leetCode profile](https://leetcode.com/CarlosAlegreUrquizu/)
+| Type |  Link |
+|------|------|
+| ***Portfolio Website*** 🕸️ (desktop-only... for now) | [Portfolio Website](https://personal-web-site-web-dev-next-js.vercel.app/) 🕸️|
+| **Passion Project** 🥳 | [TheCrouchys by YC-Experiences](https://thecrouchys.com/) 🥳|
+| ***NPM packages*** 👨‍💻 (3 SmartContracts as NPM packages - on dev) | [NPM Packages](https://www.npmjs.com/~carlosalegre?activeTab=packages) 👨‍💻|
+| **LeetCode** ⏳ | [LeetCode Profile](https://leetcode.com/CarlosAlegreUrquizu/) ⏳|
 
 ---
 
-## Some & Main Technologies I've been in contact with 👨‍💻👨‍💻👨‍💻
+# Some & Main Technologies I've been in contact with 👨‍💻👨‍💻👨‍💻
 
 (well nowadays chatGPT exists so you can learn decently any tool real quick, times are changing...)
 
