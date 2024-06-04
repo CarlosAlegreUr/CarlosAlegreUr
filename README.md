@@ -6,7 +6,7 @@
 |------|------|
 | ***Blockchain Security Researcher*** 🕵️  | [Audits By CarlosAlegreUr](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr) 📔 |
 | **Fullstack Developer - Web2 & Web3** 🌐  | [BuddyFighters NFT Game](https://github.com/CarlosAlegreUr/BuddyFighters-FullstackWeb3NFTGame) 🚀 / [Chainlink Hackathon Project](https://github.com/CarlosAlegreUr/ConstellationChainlinkHackathon2023) ⛓️🌐 |
-| ***CV*** 🗞️ (updated 13th February 2024)  | [CV](https://drive.google.com/file/d/1msNde31PkVQcC_gboSvlbzkgM96z75l_/view?usp=sharing) 🗞️|
+  | ***CV*** 🗞️ (updated 4th June 2024)  | [CV](https://drive.google.com/file/d/1m5VAH5_JnL_0a0I-hUJTtZ3cx9OUk37b/view?usp=sharing) 🗞️|
 | **Linked-In** 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/carlos-alegre-urquiz%C3%BA-0b19701b3/) 🔗|
 
 
