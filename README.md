@@ -11,3 +11,7 @@
 | **LeetCode** ⏳ | [Profile](https://leetcode.com/CarlosAlegreUrquizu/) ⏳|
 
 ---
+
+## My lifetime project: Cheerfulism 🕶️🤏🌞
+
+See repo [here](https://github.com/CarlosAlegreUr/Cheerfulism?tab=readme-ov-file).
