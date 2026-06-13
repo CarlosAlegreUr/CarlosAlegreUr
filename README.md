@@ -12,6 +12,6 @@
 ---
 
 ## My lifetime project: 
-### Cheerfulism 🕶️🤏🌞 => See [here](https://github.com/CarlosAlegreUr/Cheerfulism?tab=readme-ov-file).
+### Cheerfulism 🕶️🤏🌞 => See [here](https://github.com/CarlosAlegreUr/writings/tree/main/texts/Cheerfulism#cheerfulism-v004-%EF%B8%8F).
 
 ---
